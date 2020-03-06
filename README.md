@@ -1,6 +1,33 @@
-# flutter_quote_app
+# Flutter Quote App
 
-A new Flutter application.
+A new Flutter application that displays lists of Quotes fetched from [FavQs](https://favqs.com/api/).
+
+### Features
+
+- List of Quotes
+- Fetch tag related Quotes
+- Add a Quote to favorites (can be accessed offline)
+
+#### Flutter App Screenshots
+
+<table>
+  <tr>
+     <td>List of Quote Dark Mode</td>
+     <td>Drawer Light Mode</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/list_quote_light_mode.jpeg" width=370 height=480></td>
+    <td><img src="screenshots/drawer_light_mode.jpeg" width=370 height=480></td>
+  </tr>
+  <tr>
+     <td>List of Quote Dark Mode</td>
+     <td>Drawer Dark Mode</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/list_quote_dark_mode.jpeg" width=370 height=480></td>
+    <td><img src="screenshots/drawer_dark_mode.jpeg" width=370 height=480></td>
+  </tr>
+ </table>
 
 ## Getting Started
 
